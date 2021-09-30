@@ -1,1 +1,8 @@
-{}
+{
+    "baseUrl": "http://automationpractice.com/",
+    "retries": {
+        "runMode": 2,
+        "openMode": 1
+    },
+    "defaultCommandTimeout": 15000
+}
