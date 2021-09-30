@@ -1,0 +1,23 @@
+{
+  "name": "cypress-automation-practice",
+  "version": "1.0.0",
+  "description": "Automated tests in Cypress for the Automation Practice site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigo-rac2/cypress-automation-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigo-rac2/cypress-automation-practice/issues"
+  },
+  "homepage": "https://github.com/rodrigo-rac2/cypress-automation-practice#readme",
+  "devDependencies": {
+    "cypress": "^7.6.0"
+  }
+}
